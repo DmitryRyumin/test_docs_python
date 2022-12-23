@@ -1,0 +1,160 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022. Dmitry Ryumin, ...
+# This file is distributed under the same license as the TestDocsPython
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TestDocsPython 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-23 13:03+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/modules/core/language.rst:2 1e84c6de06064cd087259613df8c50ac
+msgid "Определение языка"
+msgstr ""
+
+#: b1fa8b98b2fe452c83b6777b33c55295 of
+#: test_docs_python.modules.core.language.Language:1
+msgid "Базовые классы: :py:class:`object`"
+msgstr ""
+
+#: bb3860c433504797b346a66d956cec4b of
+#: test_docs_python.modules.core.language.Language:1
+msgid "Класс для интернационализации (I18N) и локализации (L10N)"
+msgstr ""
+
+#: 14bb6f5077004b98a5fedd34908dc3b3 43bdc28d18834de39dfab5a66ab0e44c
+#: ed8a3a5e0f9a45e3992f4d4b79ff5f58 of
+#: test_docs_python.modules.core.language.Language
+#: test_docs_python.modules.core.language.Language.__set_locale
+#: test_docs_python.modules.core.language.Language.lang
+msgid "Параметры"
+msgstr ""
+
+#: ../../../docstring 105c3fd0053c4284ac4bed9960b12936
+#: b7d5b2f79a3b4923ae7bc83b7c7e71bd c17575f4d7124d1486a3b4b2978a9e53
+#: c17743de44ed4c9fa4e514f4809bca2d of
+#: test_docs_python.modules.core.language.Language:3
+#: test_docs_python.modules.core.language.Language.__lang:1
+#: test_docs_python.modules.core.language.Language.__set_locale:6
+#: test_docs_python.modules.core.language.Language.lang:8
+msgid "Язык"
+msgstr ""
+
+#: 65f97f5f83674603b90b7830e2faa4b8 971760bb3cb142fc824cc211c629e7b1 of
+#: test_docs_python.modules.core.language.Language.__get_languages:1
+#: test_docs_python.modules.core.language.Language.locales:1
+msgid "Получение поддерживаемых языков"
+msgstr ""
+
+#: 8f29bc7395fe468b8e78ff81e91b4b98 9a133d0139df4305955935d1e4b77967
+#: db7c719f812c4b8bbde9ca1cb8e02be5 of
+#: test_docs_python.modules.core.language.Language.__get_languages:4
+#: test_docs_python.modules.core.language.Language.__get_locales:4
+#: test_docs_python.modules.core.language.Language.__set_locale:4
+msgid "private (приватный метод)"
+msgstr ""
+
+#: 652c4c2370384f7ea0936837d2f2e7b7 872140b3ef3349428875cd80fea0c5e1
+#: 8ddf6a0a535a4c7dac5499c63f8546b6 9250001812f9499087f062e38812ed0a
+#: b53beeb0643d4eeaa50e5188c339029a f36b130494ca46d4a8fb89d31ecbbf04 of
+#: test_docs_python.modules.core.language.Language.__get_languages
+#: test_docs_python.modules.core.language.Language.__get_locales
+#: test_docs_python.modules.core.language.Language.__set_locale
+#: test_docs_python.modules.core.language.Language.lang
+#: test_docs_python.modules.core.language.Language.locales
+#: test_docs_python.modules.core.language.Language.path_to_locales
+msgid "Результат"
+msgstr ""
+
+#: 6208e699567d424d926ccec6ef7d9954 ef0619d940ca4133a6c34495ca4b9946 of
+#: test_docs_python.modules.core.language.Language.__get_languages:6
+#: test_docs_python.modules.core.language.Language.locales:3
+msgid "Список поддерживаемых языков"
+msgstr ""
+
+#: 1625cf687c7d41c8894f73d3a96b4fef 1ab56f350bfe4c49aa1cef182a6b0ada
+#: 465a1c88aa5649e29dd8de55a3efc817 916d64a4325444d389dff60d7402da6b
+#: b633b5e92a6b448abb73a866f824f8e7 dbf73790b1f34994ab3e3b4336dbacb9 of
+#: test_docs_python.modules.core.language.Language.__get_languages
+#: test_docs_python.modules.core.language.Language.__get_locales
+#: test_docs_python.modules.core.language.Language.__set_locale
+#: test_docs_python.modules.core.language.Language.lang
+#: test_docs_python.modules.core.language.Language.locales
+#: test_docs_python.modules.core.language.Language.path_to_locales
+msgid "Тип результата"
+msgstr ""
+
+#: 715f4c24c3004e20be45346dd82b9d15 of
+#: test_docs_python.modules.core.language.Language.__get_locales:1
+msgid "Получение языковых пакетов"
+msgstr ""
+
+#: bb127df41c774bc89a420777fd88e9fe of
+#: test_docs_python.modules.core.language.Language.__get_locales:6
+msgid "Список словарей с языковыми пакетами"
+msgstr ""
+
+#: ../../../docstring 0c8c737c2de4469eaffcc630e7f5d127 of
+#: test_docs_python.modules.core.language.Language.__lang:4
+msgid "private (приватный аргумент)"
+msgstr ""
+
+#: 1602fef17c2f4236baac8934dfbc9c4a of
+#: test_docs_python.modules.core.language.Language.__set_locale:1
+msgid "Установка языка"
+msgstr ""
+
+#: 446bf894d98b4b02af6c76afa558e403 of
+#: test_docs_python.modules.core.language.Language.__set_locale:9
+msgid ""
+"MethodType перевода строк на один из поддерживаемых языков если метод "
+"запущен через конструктор"
+msgstr ""
+
+#: d34adbbf8f3c40c18adc201c99ca68f2 of
+#: test_docs_python.modules.core.language.Language.lang:1
+msgid "Получение/установка текущего языка"
+msgstr ""
+
+#: 6c7ee1c728e540e6a9ab42907ee93de8 of
+#: test_docs_python.modules.core.language.Language.lang:3
+msgid ""
+"Язык, доступные варианты:  * ``\"ru\"`` - Русский язык (``по умолчанию``)"
+" * ``\"en\"`` - Английский язык"
+msgstr ""
+
+#: 2a311c60df6942808564f280448ae59d of
+#: test_docs_python.modules.core.language.Language.lang:3
+msgid "Язык, доступные варианты:"
+msgstr ""
+
+#: fd70ad609fd24e999d3e10ec3047f438 of
+#: test_docs_python.modules.core.language.Language.lang:5
+msgid "``\"ru\"`` - Русский язык (``по умолчанию``)"
+msgstr ""
+
+#: 989a48cfe42c4ed8b26cc83a2bad22d4 of
+#: test_docs_python.modules.core.language.Language.lang:6
+msgid "``\"en\"`` - Английский язык"
+msgstr ""
+
+#: 7417dc0075c54b1891d68c2f157ab1f9 of
+#: test_docs_python.modules.core.language.Language.path_to_locales:1
+msgid "Получение директории с языковыми пакетами"
+msgstr ""
+
+#: b771caaf68e34234b5de4d81420444f4 of
+#: test_docs_python.modules.core.language.Language.path_to_locales:3
+msgid "Директория с языковыми пакетами"
+msgstr ""
+

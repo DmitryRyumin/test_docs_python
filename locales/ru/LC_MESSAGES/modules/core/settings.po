@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022. Dmitry Ryumin, ...
+# This file is distributed under the same license as the TestDocsPython
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TestDocsPython 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-23 13:03+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/modules/core/settings.rst:2 b0ab2f46a23446d5894888112ffa6181
+msgid "Настройки"
+msgstr ""
+
+#: 4a978324aea44aacb013bd55710a47eb of
+#: test_docs_python.modules.core.settings.Settings:1
+msgid ""
+"Базовые классы: "
+":py:class:`~test_docs_python.modules.core.messages.Messages`"
+msgstr ""
+
+#: 664b64c29f2d4c8aaf08774c8c075c84 of
+#: test_docs_python.modules.core.settings.Settings:1
+msgid "Класс для настроек"
+msgstr ""
+
+#: 013944eed78847159864d0af5fbdf639 of
+#: test_docs_python.modules.core.settings.Settings
+msgid "Параметры"
+msgstr ""
+
+#: ../../../docstring 0b810221bda8406dbc141068ea135b61 of
+#: test_docs_python.modules.core.settings.Settings.__lang:1
+msgid "Язык"
+msgstr ""
+
+#: ../../../docstring 4bf65bb143ac447ebc865a5fc30aa302 of
+#: test_docs_python.modules.core.settings.Settings.__lang:4
+msgid "private (приватный аргумент)"
+msgstr ""
+
+#: 6f4c77a003874b2a9c398e075d82519f of
+#: test_docs_python.modules.core.settings.Settings.color_blue:1
+msgid "Получение синего цвета текста в терминале"
+msgstr ""
+
+#: 4910007b2b234911888ac3b49a04f3d4 4db849b69120443caef5766d498259ac
+#: 7890976a5d4e4d2c993829d437af5cfd 8498124d30d7438782723cdcac1826bf
+#: ec460d41eee64c498498371865c7eb03 of
+#: test_docs_python.modules.core.settings.Settings.color_blue
+#: test_docs_python.modules.core.settings.Settings.color_green
+#: test_docs_python.modules.core.settings.Settings.color_red
+#: test_docs_python.modules.core.settings.Settings.text_bold
+#: test_docs_python.modules.core.settings.Settings.text_end
+msgid "Результат"
+msgstr ""
+
+#: 2a8b7fdcad6c440ca8373a75da059d4d c32e2f1edd29452a80c6340c412a7971
+#: e7e76503d4324ca5bdd643046825e704 of
+#: test_docs_python.modules.core.settings.Settings.color_blue:3
+#: test_docs_python.modules.core.settings.Settings.color_green:3
+#: test_docs_python.modules.core.settings.Settings.color_red:3
+msgid "Цвет текста в терминале"
+msgstr ""
+
+#: 0a83bb18382347438fb1dc4f723e4418 2628c77e96034f67bb7da08eeb352d59
+#: 84838130080f4f7687f505eb6722bbae ace24736f56f4103a26ff771e010281d
+#: b9a681029461435a8c83c26dc924fc4b of
+#: test_docs_python.modules.core.settings.Settings.color_blue
+#: test_docs_python.modules.core.settings.Settings.color_green
+#: test_docs_python.modules.core.settings.Settings.color_red
+#: test_docs_python.modules.core.settings.Settings.text_bold
+#: test_docs_python.modules.core.settings.Settings.text_end
+msgid "Тип результата"
+msgstr ""
+
+#: b738f3214a0845af8b3bc7edd35ad27b of
+#: test_docs_python.modules.core.settings.Settings.color_green:1
+msgid "Получение зеленого цвета текста в терминале"
+msgstr ""
+
+#: b69c5c0fe4a94ab7ac9b54a007947b4b of
+#: test_docs_python.modules.core.settings.Settings.color_red:1
+msgid "Получение красного цвета текста в терминале"
+msgstr ""
+
+#: 1001cd163c124340b2398fb86717d381 of
+#: test_docs_python.modules.core.settings.Settings.text_bold:1
+msgid "Получение жирного начертания текста в терминале"
+msgstr ""
+
+#: cec8f5a99f504866ba29f7f272164f44 of
+#: test_docs_python.modules.core.settings.Settings.text_bold:3
+msgid "Жирное начертание текста в терминале"
+msgstr ""
+
+#: 575f8e7a08e34461bae41db0b9793655 of
+#: test_docs_python.modules.core.settings.Settings.text_end:1
+msgid "Получение сброса оформления текста в терминале"
+msgstr ""
+
+#: d75e761257074804a833a50c02b385b2 of
+#: test_docs_python.modules.core.settings.Settings.text_end:3
+msgid "Сброс оформления текста в терминале"
+msgstr ""
+

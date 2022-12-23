@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022. Dmitry Ryumin, ...
+# This file is distributed under the same license as the TestDocsPython
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TestDocsPython 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-23 13:03+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/modules/lab/build.rst:2 5a766ce55e2641ce8199a676eefcd014
+msgid "Сборка"
+msgstr ""
+
+#: 8b0a496d143349e59decfa5ac57ba3d5 of test_docs_python.modules.lab.build.Run:1
+msgid "Базовые классы: :py:class:`~test_docs_python.modules.core.core.Core`"
+msgstr ""
+
+#: 42ce96177b454ae3a55c675f2c1135b3 of test_docs_python.modules.lab.build.Run:1
+msgid "Класс для сборки библиотеки"
+msgstr ""
+
+#: 29fae656037e45ddad975722ca4ce0ab 67bd8b326a854deeafd898e498f5e10e of
+#: test_docs_python.modules.lab.build.Run
+#: test_docs_python.modules.lab.build.Run.run
+msgid "Параметры"
+msgstr ""
+
+#: ../../../docstring c18644c0c70941129babe225a96440a0 of
+#: test_docs_python.modules.lab.build.Run.__lang:1
+msgid "Язык"
+msgstr ""
+
+#: ../../../docstring 92c9e966b9ae4b5bb93c8647d52b06b3 of
+#: test_docs_python.modules.lab.build.Run.__lang:4
+msgid "private (приватный аргумент)"
+msgstr ""
+
+#: 9e646098adb54c30ab891104b2890440 of
+#: test_docs_python.modules.lab.build.Run.run:1
+msgid "Запуск"
+msgstr ""
+
+#: 232aaf85353a46c4922ddc043a599e4a of
+#: test_docs_python.modules.lab.build.Run.run:3
+msgid "Печатать процесс выполнения"
+msgstr ""
+
+#: b25c388954ca450e85662604b300841f of
+#: test_docs_python.modules.lab.build.Run.run
+msgid "Результат"
+msgstr ""
+
+#: b318886a13854afa9013d00b70683e8a of
+#: test_docs_python.modules.lab.build.Run.run:6
+msgid "**True** если запуск прошел успешно, в обратном случае **False**"
+msgstr ""
+
+#: 46070e9090cb4524af50a8ce32bfc849 of
+#: test_docs_python.modules.lab.build.Run.run
+msgid "Тип результата"
+msgstr ""
+

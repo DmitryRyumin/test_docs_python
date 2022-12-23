@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022. Dmitry Ryumin, ...
+# This file is distributed under the same license as the TestDocsPython
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TestDocsPython 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-23 13:03+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/modules/core/core.rst:2 1b74e1c03c244d97a6bc596d5fb761a7
+msgid "Ядро"
+msgstr ""
+
+#: a62e11c9c79e49a99148ee22a794deea of
+#: test_docs_python.modules.core.core.CoreMessages:1
+msgid ""
+"Базовые классы: "
+":py:class:`~test_docs_python.modules.core.settings.Settings`"
+msgstr ""
+
+#: dfd8416a6ea94479b67d8750ebc79825 of
+#: test_docs_python.modules.core.core.CoreMessages:1
+msgid "Класс для сообщений"
+msgstr ""
+
+#: 58f81e107ff746d18d7197c102efcfe3 706af5a9fa6a47b2a40a4d111adba720
+#: 957cd07484dc4c88b49948ecbab29905 fa9f1ac618bf453c80d7ad2b612a2279
+#: fcdccddcafec4013b3ba81f981958578 of test_docs_python.modules.core.core.Core
+#: test_docs_python.modules.core.core.Core.inv_args
+#: test_docs_python.modules.core.core.Core.libs_vers
+#: test_docs_python.modules.core.core.Core.message_info
+#: test_docs_python.modules.core.core.CoreMessages
+msgid "Параметры"
+msgstr ""
+
+#: 8e1044f03b2e46cc80aa703adfcc8957 of
+#: test_docs_python.modules.core.core.Core:1
+msgid ""
+"Базовые классы: "
+":py:class:`~test_docs_python.modules.core.core.CoreMessages`"
+msgstr ""
+
+#: 7d9ec08172c34711be03a6c5da266fdc of
+#: test_docs_python.modules.core.core.Core:1
+msgid "Класс-ядро модулей"
+msgstr ""
+
+#: d30d3bb7e5874233950f6759d79d6a1a of
+#: test_docs_python.modules.core.core.Core.inv_args:1
+msgid "Сообщение об указании неверных типов аргументов"
+msgstr ""
+
+#: 1da7673214cf4800a3df927afbe7ed63 of
+#: test_docs_python.modules.core.core.Core.inv_args:3
+msgid "Имя класса"
+msgstr ""
+
+#: 1b2903222b1a4fe780295d85c4e330a9 of
+#: test_docs_python.modules.core.core.Core.inv_args:5
+msgid "Имя метода/функции"
+msgstr ""
+
+#: bc0f61f16f824386b0f0992c14779e0a of
+#: test_docs_python.modules.core.core.Core.inv_args:7
+msgid "Печатать процесс выполнения"
+msgstr ""
+
+#: 277c2ba8b4f745e5b83f93e2b834659a b32e915138d840dfb03b3e0a6ce93981
+#: d376ca1de83b49d9992e5d29ff9c6d5a of
+#: test_docs_python.modules.core.core.Core.inv_args
+#: test_docs_python.modules.core.core.Core.libs_vers
+#: test_docs_python.modules.core.core.Core.message_info
+msgid "Результат"
+msgstr ""
+
+#: bfd87a10f9d24dba9cb79f787752deff f95ce38dfaf84d298b9a6a63ca06bf55 of
+#: test_docs_python.modules.core.core.Core.inv_args:10
+#: test_docs_python.modules.core.core.Core.message_info:10
+msgid "None"
+msgstr ""
+
+#: 20a2b5dc6bfb45af9542dbd69e57c8d4 cae5c07a7e5f46a0be22ad3eb2c5f109
+#: e5816c67161b4483bb72f62c2fb51d55 of
+#: test_docs_python.modules.core.core.Core.inv_args
+#: test_docs_python.modules.core.core.Core.libs_vers
+#: test_docs_python.modules.core.core.Core.message_info
+msgid "Тип результата"
+msgstr ""
+
+#: f697b859d4bb4eee92bf027133deeee9 of
+#: test_docs_python.modules.core.core.Core.libs_vers:1
+msgid "Получение и отображение версий установленных библиотек"
+msgstr ""
+
+#: 5b64feb6e86d47fbafe5a0c9bbe19958 bfcfb3057676493dbca913a03f33c84f of
+#: test_docs_python.modules.core.core.Core.libs_vers:3
+#: test_docs_python.modules.core.core.Core.message_info:7
+msgid "Отображение"
+msgstr ""
+
+#: 932471822a5743c7bec9f4300bc7a0d1 of
+#: test_docs_python.modules.core.core.Core.libs_vers:6
+msgid ""
+"**True** если версии установленных библиотек отображены, в обратном "
+"случае **False**"
+msgstr ""
+
+#: 5896ca515aef46619292bbdf8a6d4e31 of
+#: test_docs_python.modules.core.core.Core.message_info:1
+msgid "Информационное сообщение"
+msgstr ""
+
+#: 85c82d47969c496bb674ba199e254d54 of
+#: test_docs_python.modules.core.core.Core.message_info:3
+msgid "Сообщение"
+msgstr ""
+
+#: 9fa86676ad08450a99b63d60af3f88b2 of
+#: test_docs_python.modules.core.core.Core.message_info:5
+msgid "Количество пробелов в начале текста"
+msgstr ""
+

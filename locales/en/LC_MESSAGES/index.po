@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022. Dmitry Ryumin, ...
+# This file is distributed under the same license as the TestDocsPython
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TestDocsPython 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-23 13:11+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/index.rst:12 ce407be64e454d20afd9d4cf411b209c
+msgid "Содержание:"
+msgstr "Content:"
+
+#: ../../source/index.rst:1 d65795e505b2423a9b34c0cdcb7b6df8
+msgid "Библиотека для чего-то там ..."
+msgstr "Library for something there ..."
+
+#: ../../source/index.rst:1 5a3ec79f38614ff18920f73c225240e4
+msgid "TestDocsPython, Documentation"
+msgstr ""
+
+#: ../../source/index.rst:6 eb16c2a19890480c9bbedda7cf056795
+msgid "Документация библиотеки - ``TestDocsPython``"
+msgstr "Documentation Libraries - ``TestDocsPython``"
+
+#: ../../source/index.rst:8 5b0388c8108b45b8b4d44485d1ff97d0
+msgid ""
+"`TestDocsPython <https://github.com/DmitryRyumin/test_docs_python>`_ - "
+"библиотека для чего-то там ..."
+msgstr ""
+"`TestDocsPython <https://github.com/DmitryRyumin/test_docs_python>`_ - library for something ..."
+

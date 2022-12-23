@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022. Dmitry Ryumin, ...
+# This file is distributed under the same license as the TestDocsPython
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TestDocsPython 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-23 13:03+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/modules/core/messages.rst:2 59701dc39a1445308911c219e87bbb3d
+msgid "Сообщения"
+msgstr ""
+
+#: acbc4cc184684d378a6289752074490b of
+#: test_docs_python.modules.core.messages.Messages:1
+msgid ""
+"Базовые классы: "
+":py:class:`~test_docs_python.modules.core.language.Language`"
+msgstr ""
+
+#: 3a41a1d59bbc4a379e923451a0d48597 of
+#: test_docs_python.modules.core.messages.Messages:1
+msgid "Класс для сообщений"
+msgstr ""
+
+#: b70d55beb580422c8d8052cda333ca5e of
+#: test_docs_python.modules.core.messages.Messages
+msgid "Параметры"
+msgstr ""
+
+#: ../../../docstring 23e73e8a105e44e7969d3a21375f9593 of
+#: test_docs_python.modules.core.messages.Messages.__lang:1
+msgid "Язык"
+msgstr ""
+
+#: ../../../docstring ca5677069912425eb38371b147617973 of
+#: test_docs_python.modules.core.messages.Messages.__lang:4
+msgid "private (приватный аргумент)"
+msgstr ""
+
